@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Talk-A-Bit",
+    "imageSrc": "projects/project.png",
+    "description": "This is a Real time chat Application project built using MERN stack and socket.io.",
+    "skills": ["React", "Express", "Node", "MongoDB", "Socket.IO"],
+    "source": "https://github.com/shAdow01Lord/Talk-A-Bit"
+  },
+  {
+    "title": "File Organizer",
+    "imageSrc": "projects/project.png",
+    "description": "This is a file organizer application built using Node Js and is used to sort the files based on their extension and takes very less time and it's global.",
+    "skills": ["Node"],
+    "source": "https://github.com/shAdow01Lord/Command-line-file-organizer"
+  },
+  {
+    "title": "Python projects",
+    "imageSrc": "projects/project.png",
+    "description": "A group of python projects like Fail mail detection and Movie Recommendation System using ML Algorithms.",
+    "skills": ["Python", "NumPy", "Pandas"],
+    "source": "https://github.com/shAdow01Lord/pythonProjects"
+  }
+]

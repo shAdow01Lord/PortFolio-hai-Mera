@@ -1,0 +1,70 @@
+[
+    {
+    "title": "C++",
+    "imageSrc": "skills/c++.png"
+  },
+  {
+    "title": "Python",
+    "imageSrc": "skills/python.png"
+  },
+  {
+    "title": "Javascript",
+    "imageSrc": "skills/js.png"
+  },
+  {
+    "title": "HTML",
+    "imageSrc": "skills/html.png"
+  },
+  {
+    "title": "CSS",
+    "imageSrc": "skills/css.png"
+  },
+  {
+    "title": "React",
+    "imageSrc": "skills/react.png"
+  },
+  {
+    "title": "Node",
+    "imageSrc": "skills/node.png"
+  },
+  {
+    "title": "Express",
+    "imageSrc": "skills/expressjs.png"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "Next",
+    "imageSrc": "skills/Nextjs.png"
+  },
+  {
+    "title": "NumPy",
+    "imageSrc": "skills/NumPy.png"
+  },
+  {
+    "title": "MatplotLib",
+    "imageSrc": "skills/Matplotlib.png"
+  },
+  {
+    "title": "Tableau",
+    "imageSrc": "skills/tableau.png"
+  },
+  {
+    "title": "Pandas",
+    "imageSrc": "skills/Pandas.png"
+  },{
+    "title": "GitHub",
+    "imageSrc": "skills/GitHub.png"
+  },
+  {
+    "title": "AWS",
+    "imageSrc": "skills/aws.png"
+  },
+  {
+    "title": "Docker",
+    "imageSrc": "skills/Docker.png"
+  }
+  
+]
